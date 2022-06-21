@@ -1,0 +1,51 @@
+/* Variables */
+:root {
+    --basic-dark:#2F303A;
+    --basic-blue:#2196F3;
+    --basic-background:#E5E5E5;  
+    --basic-white:#FFF; 
+    --basic-gray:rgba(255,255,255,0.6); 
+    --gray:#212121;; 
+    --light-gray:#757575;
+}
+/* **************************HEADER start******************/
+
+ 
+
+/* **************************HEADER end******************/
+
+/* **************************NAV start******************/
+.header-navigation {
+     
+} 
+
+.header-navigation-list {
+     
+} 
+
+.header-navigation-item {
+     
+} 
+
+
+
+/* **************************NAV end******************/
+
+/* ******************** MAIN start *********************/
+/* ***************section - effective-solutions start****/
+
+/* ***************section - effective-solutions end****/
+/* ***************section - features start****/
+
+/* ***************section - features end****/
+/* ***************section - our-business start****/
+
+/* ***************section - our-business end****/
+/* ***************section - our-team start****/
+
+/* ***************section - our-team end***/
+/* ******************** MAIN end *********************/
+
+/* **************************FOOTER start******************/
+
+/* **************************FOOTER end******************/
