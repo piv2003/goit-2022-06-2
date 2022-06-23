@@ -5,18 +5,25 @@
     --basic-background:#E5E5E5;  
     --basic-white:#FFF; 
     --basic-gray:rgba(255,255,255,0.6); 
-    --gray:#212121;; 
-    --light-gray:#757575;
+    --text-black-full:#000;
+    --text-black-color:#212121; 
+    --text-lightgray-color:#757575;
 }
 /* **************************HEADER start******************/
 
  
 
 /* **************************HEADER end******************/
+.header-logo-link {
+    color:var(--basic-blue);    
+}
 
+.header-logo-link-text {
+    color:var(--text-black-full);         
+}
 /* **************************NAV start******************/
 .header-navigation {
-     
+       
 } 
 
 .header-navigation-list {
@@ -27,7 +34,13 @@
      
 } 
 
+.header-navigation-item-link {
+    color: var(--text-black-color);
+} 
 
+.header-contacts-item-link {
+    color: var(--text-lightgray-color);
+}
 
 /* **************************NAV end******************/
 
