@@ -289,3 +289,72 @@ body {
 }
 
 /* **************************FOOTER end******************/
+.portf-buttons-list,
+.potf-blocks-list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap:wrap;
+}
+
+.potf-blocks-item {
+  width: 370px;
+  height: 404px;
+}
+
+.potf-blocks-item-name,
+.potf-blocks-item-function {
+  text-align: left;
+}
+
+/* .container {
+  background-color: red;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
