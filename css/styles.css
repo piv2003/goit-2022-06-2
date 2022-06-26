@@ -326,6 +326,7 @@ body {
 
 .portf-blocks-item-name {
   font-size: 18px;  
+  color: var(--text-black-color);
 }
 
 .portf-blocks-item-function {
